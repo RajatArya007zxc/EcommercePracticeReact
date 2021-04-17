@@ -10,7 +10,14 @@
 
 # production
 /build
-
+const config={
+    apiKey: "AIzaSyB667OhCOZG9NKeN7mjsjkBlSlTbrPy_qM",
+    authDomain: "practicereactjs-1cfcb.firebaseapp.com",
+    projectId: "practicereactjs-1cfcb",
+    storageBucket: "practicereactjs-1cfcb.appspot.com",
+    messagingSenderId: "184914223083",
+    appId: "1:184914223083:web:49b116a9641157b19203ae"
+  };
 # misc
 .DS_Store
 .env.local
